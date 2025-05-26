@@ -16,7 +16,7 @@ A sleek and responsive **dashboard web app** built using **Tailwind CSS** and Ja
 
 ## 📸 Preview Url
 
-mydashbd.netlify.app
+[mydashbd.netlify.app](https://mydashbd.netlify.app/)
 
 ---
 
